@@ -24,7 +24,13 @@ RUN pip install -U geopandas \
                    tables \
                    mixpanel \
                    GeoAlchemy2 \
-		   opencv-python
+		   opencv-python \
+		   numpy \
+		   scipy \
+		   matplotlib \
+		   ipython \
+		   jupyter \
+		   pandas
 
 VOLUME /notebooks
 WORKDIR /notebooks
