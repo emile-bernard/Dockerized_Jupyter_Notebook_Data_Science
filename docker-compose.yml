@@ -18,4 +18,4 @@ services:
 #    environment:
 #      POSTGRES_USER: data
 #      POSTGRES_PASSWORD: data
-#      POSTGRES_DB: data
+#      POSTGRES_DB: datagit 
