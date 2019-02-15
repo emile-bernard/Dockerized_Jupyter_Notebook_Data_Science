@@ -31,6 +31,7 @@ RUN pip install -U geopandas \
 		   matplotlib \
 		   ipython \
 		   jupyter \
+		   sys \
 		   pandas
 
 VOLUME /notebooks
