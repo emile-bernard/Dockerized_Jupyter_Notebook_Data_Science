@@ -25,6 +25,7 @@ RUN pip install -U geopandas \
                    mixpanel \
                    GeoAlchemy2 \
 		   opencv-python \
+		   cv2 \
 		   numpy \
 		   scipy \
 		   matplotlib \
