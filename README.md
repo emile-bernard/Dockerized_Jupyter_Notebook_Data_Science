@@ -90,10 +90,5 @@ alias ds='docker stats --format "table {{.Name}}\t{{.Container}}\t{{.CPUPerc}}\t
 
 - [Docker ELK stack for devops](https://medium.com/tech-tajawal/elk-stack-docker-playground-for-devops-221179ca00dd)
 
-## Articles
-
-- [Face detection with python using OpenCV](https://www.datacamp.com/community/tutorials/face-detection-python-opencv)
-
-
 
 
